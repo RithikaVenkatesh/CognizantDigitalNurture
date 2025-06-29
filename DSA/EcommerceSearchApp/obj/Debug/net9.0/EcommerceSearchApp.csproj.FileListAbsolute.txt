@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\SATHYABAMA\COGNIZANT\WEEK 1\DSA\EcommerceSearchApp\bin\Debug\net9.0\EcommerceSearchApp.exe
+C:\Users\HP\Desktop\SATHYABAMA\COGNIZANT\WEEK 1\DSA\EcommerceSearchApp\bin\Debug\net9.0\EcommerceSearchApp.deps.json
+C:\Users\HP\Desktop\SATHYABAMA\COGNIZANT\WEEK 1\DSA\EcommerceSearchApp\bin\Debug\net9.0\EcommerceSearchApp.runtimeconfig.json
+C:\Users\HP\Desktop\SATHYABAMA\COGNIZANT\WEEK 1\DSA\EcommerceSearchApp\bin\Debug\net9.0\EcommerceSearchApp.dll
+C:\Users\HP\Desktop\SATHYABAMA\COGNIZANT\WEEK 1\DSA\EcommerceSearchApp\bin\Debug\net9.0\EcommerceSearchApp.pdb
+C:\Users\HP\Desktop\SATHYABAMA\COGNIZANT\WEEK 1\DSA\EcommerceSearchApp\obj\Debug\net9.0\EcommerceSearchApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\SATHYABAMA\COGNIZANT\WEEK 1\DSA\EcommerceSearchApp\obj\Debug\net9.0\EcommerceSearchApp.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\SATHYABAMA\COGNIZANT\WEEK 1\DSA\EcommerceSearchApp\obj\Debug\net9.0\EcommerceSearchApp.AssemblyInfo.cs
+C:\Users\HP\Desktop\SATHYABAMA\COGNIZANT\WEEK 1\DSA\EcommerceSearchApp\obj\Debug\net9.0\EcommerceSearchApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\SATHYABAMA\COGNIZANT\WEEK 1\DSA\EcommerceSearchApp\obj\Debug\net9.0\EcommerceSearchApp.dll
+C:\Users\HP\Desktop\SATHYABAMA\COGNIZANT\WEEK 1\DSA\EcommerceSearchApp\obj\Debug\net9.0\refint\EcommerceSearchApp.dll
+C:\Users\HP\Desktop\SATHYABAMA\COGNIZANT\WEEK 1\DSA\EcommerceSearchApp\obj\Debug\net9.0\EcommerceSearchApp.pdb
+C:\Users\HP\Desktop\SATHYABAMA\COGNIZANT\WEEK 1\DSA\EcommerceSearchApp\obj\Debug\net9.0\EcommerceSearchApp.genruntimeconfig.cache
+C:\Users\HP\Desktop\SATHYABAMA\COGNIZANT\WEEK 1\DSA\EcommerceSearchApp\obj\Debug\net9.0\ref\EcommerceSearchApp.dll
